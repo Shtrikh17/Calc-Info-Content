@@ -1,2 +1,2 @@
 # Information-content-calculation
-Program n Python for information content evaluation
+Program in Python for information content evaluation
